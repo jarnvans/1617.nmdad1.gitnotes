@@ -1,7 +1,7 @@
 Mappen
 ------
 
-- [Lectures : 01]('/lectures/01/')
+- [Lectures : 01]("/lectures/01/")
 - [Lectures : 02]('/lectures/02/')
 - [Lectures : 03]('/lectures/03/')
 - [Lectures : 04]('/lectures/04/')
