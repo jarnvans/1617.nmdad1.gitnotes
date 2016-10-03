@@ -1,5 +1,6 @@
 Mijn persoonlijke AHS informatie
-|           |  |
+
+|                     |                    |
 | ------------------- | ------------------ |
 | Student             | Jarne Van Steendam |
 | Academiejaar        | 2016-17            |
