@@ -3,9 +3,10 @@ Mijn persoonlijke AHS informatie
 |                     |                    |
 | ------------------- | ------------------ |
 | Student             | Jarne Van Steendam |
-| Academiejaar        | 2016-17            |
+| Opleidingsonderdeel | New Media Design & Development |
 | Afstudeerrichting        | Multimediaproductie (MMP)           |
 | Specialisatie        | proDEV            |
+| Academiejaar        | 2016-17            |
 | Onderwijsinstelling        | Arteveldehogeschool          |
 
 Mappen
